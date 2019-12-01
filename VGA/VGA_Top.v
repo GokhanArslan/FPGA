@@ -1,20 +1,20 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Gokhan Arslan
 // 
 // Create Date:    12:29:31 12/01/2019 
 // Design Name: 
 // Module Name:    VGA_Top 
 // Project Name: 
-// Target Devices: 
+// Target Devices: Xilinx Spartan-6 XC6SLX9
 // Tool versions: 
-// Description: 
+// Description: VGA Top Module
+//              Generates color signals according to pixel indexa for a test application 
 //
 // Dependencies: 
 //
-// Revision: 
-// Revision 0.01 - File Created
+// Revision: 1.0.0
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
