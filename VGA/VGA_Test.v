@@ -2,15 +2,15 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer: Gokhan Arslan
 //
 // Create Date:   13:32:26 12/01/2019
 // Design Name:   VGA_Top
-// Module Name:   C:/Projects/Xilinx/Workspace/VGA/VGA_Test.v
+// Module Name:   VGA_Test
 // Project Name:  VGA
-// Target Device:  
+// Target Device:  Xilinx Spartan-6 XC6SLX9
 // Tool versions:  
-// Description: 
+// Description: Verilog test fixture module
 //
 // Verilog Test Fixture created by ISE for module: VGA_Top
 //
