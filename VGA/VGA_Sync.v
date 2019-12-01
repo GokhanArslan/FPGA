@@ -1,19 +1,19 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Gokhan Arslan
 // 
 // Create Date:    10:48:52 11/30/2019 
 // Design Name: 
 // Module Name:    VGA_Sync 
 // Project Name: 
-// Target Devices: 
+// Target Devices: Xilinx Spartan-6 XC6SLX9
 // Tool versions: 
-// Description: 
+// Description: Generates VGA signals
 //
 // Dependencies: 
 //
-// Revision: 
+// Revision: 1.0.0
 // Revision 0.01 - File Created
 // Additional Comments: 
 //
