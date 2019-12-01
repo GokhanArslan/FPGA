@@ -10,7 +10,7 @@
 // Target Devices: Xilinx Spartan-6 XC6SLX9
 // Tool versions: 
 // Description: VGA Top Module
-//              Generates color signals according to pixel indexa for a test application 
+//              Generates color signals according to pixel index for a test application 
 //
 // Dependencies: 
 //
